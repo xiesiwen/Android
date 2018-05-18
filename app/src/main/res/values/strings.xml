@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">M2</string>
+    <string name="bespeak_home_dialog_fail">你预约的%1$s%2$s老师时间已满，\n小轻找到了%3$s位愿意接受预约的老师，\n快来看看吧！</string>
+    <string name="image_content_description">Photo</string>
+    <string name="search">Search</string>
+    <string name="searching_for">Searching for \"%s\" on Flickr</string>
+    <string name="search_failed">Search for \"%s\" failed, check your network connection and try again</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="list">List</string>
+    <string name="image_description">An image from the list of results for a search query</string>
+    <string name="fullscreen_description">Full screen view of an image</string>
+</resources>
